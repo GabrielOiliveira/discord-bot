@@ -1,2 +1,2 @@
 # discord-bot
-Bot Discord
+Bot de Registro no Discord
